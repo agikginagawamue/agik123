@@ -31,3 +31,13 @@ top: 120px;
 position: absolute;
 left: 20px;
 top: 200px;
+}
+
+.btn1:hover{
+background-color: #3498db;
+color: yellow;
+}
+.btn2:hover{
+background-color: #3498db;
+color: yellow;   
+}
