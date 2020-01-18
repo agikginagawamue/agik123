@@ -5,4 +5,4 @@ BSIT 1A
 GLODA,JOHN BRYAN E 
 
 
-Evans, Aldrin
+De Guzman, John Aldrin
