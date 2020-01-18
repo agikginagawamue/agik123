@@ -40,3 +40,15 @@ position: absolute;
 left: 20px;
 top: 200px;
 }
+<<<<<<< HEAD
+=======
+
+.btn1:hover{
+background-color: #3498db;
+color: yellow;
+}
+.btn2:hover{
+background-color: #3498db;
+color: yellow;   
+}
+>>>>>>> b391966acbfd9d45f959d1981ba5a53ed1d01cf6
